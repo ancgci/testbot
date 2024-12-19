@@ -1,5 +1,4 @@
-# requirements.txt
-
 # Dependências do projeto
+
 telethon
 requests
